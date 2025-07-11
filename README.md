@@ -1,2 +1,3 @@
-# nginxをインストールする
+# nginxをインストールするps1
 aaa
+bbb
