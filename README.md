@@ -1,3 +1,4 @@
-# nginxをインストールするps1
-aaa
-bbb
+# nginxをインストールする
+
+## env
+* linux
