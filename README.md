@@ -1,1 +1,1 @@
-# gitrepo-nginx
+# nginxをインストールする
